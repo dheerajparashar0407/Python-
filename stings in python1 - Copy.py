@@ -1,0 +1,8 @@
+print('dheeraj')
+print("dheeraj")
+print("dheeraj's book")
+print("dheeraj's laptop")
+print('dheeraj\'s "laptop"')
+print (10* 'dheeraj')
+print ('dheeraj' + 'dheeraj')
+print(r'c:\docs\naveen')
